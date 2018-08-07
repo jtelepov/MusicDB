@@ -1,2 +1,1 @@
-# MusicDB
-Java program using jdbc library and SQLite database
+# Java program using jdbc library and SQLite database
